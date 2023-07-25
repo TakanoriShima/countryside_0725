@@ -9,7 +9,7 @@ class CreateUserProfiles < ActiveRecord::Migration[7.0]
       t.string :city
       t.text :about_region
       t.text :immigration_support
-      t.text :immigration_support
+      t.text :incubation
       t.text :job
       t.text :skill
       t.text :interest
